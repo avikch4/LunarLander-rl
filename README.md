@@ -5,9 +5,12 @@ A Deep Q-Network (DQN) with target network to solve the LunarLander-v2 environme
 
 This project implements a **Deep Q-Network (DQN)** with a target network to train an agent for solving the `LunarLander-v2` environment from OpenAI Gymnasium. This environment is more challenging than CartPole and showcases advanced stability techniques in reinforcement learning.
 
-## 📸 Demo
+## 📸 Visualisations
 
-![Lunar Lander](https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif) <!-- Replace with your own demo/gif if you want -->
+![image](https://github.com/user-attachments/assets/6266b4d4-faa1-4760-ad26-e98667db321a)
+
+![image](https://github.com/user-attachments/assets/159f25e6-5c4a-4ce1-802b-39369b3829b5)
+
 
 ## 🚀 Features
 
