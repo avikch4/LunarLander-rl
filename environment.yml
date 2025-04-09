@@ -1,0 +1,13 @@
+name: rl-env
+channels:
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==1.26.1
+      - matplotlib==3.8.2
+      - tensorflow==2.15.0
+      - gymnasium[box2d]==0.29.1
+      - jupyter
